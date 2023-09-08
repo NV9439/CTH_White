@@ -1,15 +1,12 @@
 [
    {
       "number":0,
-      "route":"GGB",
-      "front":2,
-      "frontid1":"rbxassetid://14298197163",
-      "frontid2":"rbxassetid://14298259885",
-      "controllerid1":"rbxassetid://14480479038",
-      "controllerid2":"rbxassetid://14480486570",
-      "side":2,
-      "sideid1":"rbxassetid://14298197163",
-      "sideid2":"rbxassetid://14298259885"
+      "route":"CTH",
+      "front":1,
+      "frontid1":"rbxassetid://14715969088",
+      "controllerid1":"rbxassetid://14715963278",
+      "side":1,
+      "sideid1":"rbxassetid://14715969088"
    },
    {
       "number":1,
